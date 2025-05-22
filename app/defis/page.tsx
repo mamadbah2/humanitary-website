@@ -11,7 +11,7 @@ export default function DefisPage() {
 
         <div className="relative w-full h-[400px] mb-8 rounded-lg overflow-hidden">
           <Image
-            src="/placeholder.svg?height=400&width=1000"
+            src="/images/img4.jpg"
             alt="Femmes transformatrices de poisson au travail dans des conditions difficiles"
             width={1000}
             height={400}

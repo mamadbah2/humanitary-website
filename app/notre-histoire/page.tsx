@@ -10,7 +10,7 @@ export default function NotreHistoirePage() {
 
         <div className="relative w-full h-[400px] mb-8 rounded-lg overflow-hidden">
           <Image
-            src="/placeholder.svg?height=400&width=1000"
+            src="/images/img3.jpg"
             alt="Femmes transformatrices de poisson au travail"
             width={1000}
             height={400}
@@ -37,7 +37,7 @@ export default function NotreHistoirePage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-8">
             <div className="rounded-lg overflow-hidden">
               <Image
-                src="/placeholder.svg?height=300&width=500"
+                src="/images/img4.jpg"
                 alt="Femme transformant du poisson"
                 width={500}
                 height={300}
@@ -46,7 +46,7 @@ export default function NotreHistoirePage() {
             </div>
             <div className="rounded-lg overflow-hidden">
               <Image
-                src="/placeholder.svg?height=300&width=500"
+                src="/images/img11.jpg"
                 alt="Site de transformation de poisson"
                 width={500}
                 height={300}

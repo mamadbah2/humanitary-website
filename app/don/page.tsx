@@ -123,7 +123,7 @@ export default function DonPage() {
                       <div className="flex items-center space-x-4">
                         <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center">
                           <Image
-                            src="/placeholder.svg?height=40&width=40"
+                            src="https://goamobile.com/logosent/wave@221@-P-2021-06-30_00-18-27wave_logo_2.png"
                             alt="Wave Logo"
                             width={40}
                             height={40}
@@ -142,7 +142,7 @@ export default function DonPage() {
                       <div className="flex items-center space-x-4">
                         <div className="w-16 h-16 bg-orange-100 rounded-full flex items-center justify-center">
                           <Image
-                            src="/placeholder.svg?height=40&width=40"
+                            src="https://play-lh.googleusercontent.com/T4ZLP7nx1kM6oXacVqAlCqQ5d11xc1NPdC9i3iofouWGIuXXo9QW0FsQJGA01AEblDRo"
                             alt="Orange Money Logo"
                             width={40}
                             height={40}

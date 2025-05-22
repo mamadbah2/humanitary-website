@@ -7,6 +7,7 @@ import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet"
 import { Menu, X, Phone, Mail, Facebook, Twitter, Instagram } from "lucide-react"
 import { usePathname } from "next/navigation"
 import { cn } from "@/lib/utils"
+import Image from "next/image"
 
 const navigation = [
   { name: "Accueil", href: "/" },
@@ -55,7 +56,7 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <div className="flex items-center">
             <Link href="/" className="flex items-center">
-              <span className="text-2xl font-bold text-teal-700">Femmes Transformatrices</span>
+              <Image src="images/logo.jpg" alt="Logo" width={100} height={100} />
             </Link>
           </div>
 

@@ -16,7 +16,7 @@ export default function Home() {
       <section className="relative w-full h-[600px]">
         <div className="absolute inset-0 bg-black/50 z-10" />
         <Image
-          src="/placeholder.svg?height=600&width=1920"
+          src="/images/img2.jpg"
           alt="Femmes transformatrices de poisson au travail"
           width={1920}
           height={600}
@@ -56,7 +56,7 @@ export default function Home() {
               <div className="absolute -bottom-4 -right-4 w-32 h-32 bg-amber-500 rounded-full opacity-20"></div>
               <div className="relative z-10 overflow-hidden rounded-lg">
                 <Image
-                  src="/placeholder.svg?height=500&width=600"
+                  src="/images/img1.jpg"
                   alt="Femme transformatrice de poisson"
                   width={600}
                   height={500}
@@ -92,7 +92,7 @@ export default function Home() {
       <section className="py-16 px-4 md:px-6 lg:px-8 bg-gray-50">
         <div className="container mx-auto">
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            <StatCard value="150" label="Femmes à soutenir" icon={<Users className="h-6 w-6 text-teal-600" />} />
+            <StatCard value="100" label="Femmes à soutenir" icon={<Users className="h-6 w-6 text-teal-600" />} />
             <StatCard value="15M" label="FCFA Objectif" icon={<DollarSign className="h-6 w-6 text-teal-600" />} />
             <StatCard value="25" label="Frigos Nécessaires" icon={<ThumbsUp className="h-6 w-6 text-teal-600" />} />
             <StatCard value="15" label="Fours à Moderniser" icon={<ThumbsUp className="h-6 w-6 text-teal-600" />} />
@@ -216,19 +216,19 @@ export default function Home() {
               quote="Grâce aux nouveaux équipements, je peux produire plus et de meilleure qualité. Mes revenus ont augmenté et je peux maintenant envoyer tous mes enfants à l'école."
               name="Fatou Diop"
               role="Transformatrice depuis 15 ans"
-              imageSrc="/placeholder.svg?height=100&width=100"
+              imageSrc="/images/img10.jpg"
             />
             <TestimonialCard
               quote="Le four écologique a changé ma vie. Je ne tousse plus comme avant et le poisson est mieux fumé. Les clients préfèrent mon poisson maintenant."
               name="Aminata Seck"
               role="Transformatrice depuis 20 ans"
-              imageSrc="/placeholder.svg?height=100&width=100"
+              imageSrc="/images/img7.jpg"
             />
             <TestimonialCard
               quote="Avec le fonds de roulement, je peux acheter plus de poisson quand le prix est bas. J'ai pu embaucher deux jeunes femmes pour m'aider."
               name="Mariama Ndiaye"
               role="Cheffe de groupement"
-              imageSrc="/placeholder.svg?height=100&width=100"
+              imageSrc="/images/img1.jpg"
             />
           </div>
         </div>
@@ -247,21 +247,21 @@ export default function Home() {
               title="Journée de sensibilisation au marché de Mbour"
               date="15 Juin 2025"
               location="Marché central de Mbour"
-              imageSrc="/placeholder.svg?height=200&width=400"
+              imageSrc="/images/img5.jpg"
               category="Sensibilisation"
             />
             <EventCard
               title="Formation aux techniques de conservation"
               date="22 Juin 2025"
               location="Centre communautaire de Joal"
-              imageSrc="/placeholder.svg?height=200&width=400"
+              imageSrc="/images/img6.jpg"
               category="Formation"
             />
             <EventCard
               title="Inauguration des nouveaux fours écologiques"
               date="10 Juillet 2025"
               location="Site de transformation de Kayar"
-              imageSrc="/placeholder.svg?height=200&width=400"
+              imageSrc="/images/img7.jpg"
               category="Événement"
             />
           </div>
@@ -296,7 +296,7 @@ export default function Home() {
               excerpt="Grâce à vos dons, nous avons pu livrer 5 réfrigérateurs au groupement de femmes de Mbour..."
               date="10 Mai 2025"
               category="Équipement"
-              imageSrc="/placeholder.svg?height=200&width=400"
+              imageSrc="/images/img2.jpg"
               slug="livraison-refrigerateurs-mbour"
             />
             <NewsCard
@@ -304,7 +304,7 @@ export default function Home() {
               excerpt="Une session de formation sur les normes d'hygiène a été organisée pour 30 femmes transformatrices..."
               date="28 Avril 2025"
               category="Formation"
-              imageSrc="/placeholder.svg?height=200&width=400"
+              imageSrc="/images/img3.jpg"
               slug="formation-normes-hygiene-joal"
             />
             <NewsCard
@@ -312,7 +312,7 @@ export default function Home() {
               excerpt="Un nouveau partenariat avec l'Université de Dakar permettra d'améliorer les techniques de transformation..."
               date="15 Avril 2025"
               category="Partenariat"
-              imageSrc="/placeholder.svg?height=200&width=400"
+              imageSrc="/images/img4.jpg"
               slug="partenariat-universite-dakar"
             />
           </div>

@@ -13,7 +13,7 @@ export default function NotreImpactPage() {
 
         <div className="relative w-full h-[400px] mb-8 rounded-lg overflow-hidden">
           <Image
-            src="/placeholder.svg?height=400&width=1000"
+            src="/images/img10.jpg"
             alt="Femmes transformatrices de poisson utilisant de nouveaux équipements"
             width={1000}
             height={400}
@@ -264,10 +264,10 @@ export default function NotreImpactPage() {
                 <div className="flex-shrink-0 mb-4 md:mb-0 md:mr-4">
                   <div className="w-16 h-16 rounded-full overflow-hidden">
                     <Image
-                      src="/placeholder.svg?height=64&width=64"
-                      alt="Portrait de Fatou Diop"
-                      width={64}
-                      height={64}
+                      src="/images/img8.jpg"
+                      alt="Femmes transformatrices de poisson utilisant de nouveaux équipements"
+                      width={1000}
+                      height={400}
                       className="object-cover w-full h-full"
                     />
                   </div>
@@ -289,8 +289,8 @@ export default function NotreImpactPage() {
                 <div className="flex-shrink-0 mb-4 md:mb-0 md:mr-4">
                   <div className="w-16 h-16 rounded-full overflow-hidden">
                     <Image
-                      src="/placeholder.svg?height=64&width=64"
-                      alt="Portrait de Aminata Seck"
+                      src="/images/img2.jpg"
+                      alt="Portrait de Fatou Diop"
                       width={64}
                       height={64}
                       className="object-cover w-full h-full"
@@ -314,8 +314,8 @@ export default function NotreImpactPage() {
                 <div className="flex-shrink-0 mb-4 md:mb-0 md:mr-4">
                   <div className="w-16 h-16 rounded-full overflow-hidden">
                     <Image
-                      src="/placeholder.svg?height=64&width=64"
-                      alt="Portrait de Mariama Ndiaye"
+                      src="/images/img1.jpg"
+                      alt="Portrait de Aminata Seck"
                       width={64}
                       height={64}
                       className="object-cover w-full h-full"
