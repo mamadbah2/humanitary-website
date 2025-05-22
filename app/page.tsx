@@ -16,7 +16,7 @@ export default function Home() {
       <section className="relative w-full h-[600px]">
         <div className="absolute inset-0 bg-black/50 z-10" />
         <Image
-          src="/images/img2.jpg"
+          src="/images/img7.jpg"
           alt="Femmes transformatrices de poisson au travail"
           width={1920}
           height={600}
@@ -261,7 +261,7 @@ export default function Home() {
               title="Inauguration des nouveaux fours écologiques"
               date="10 Juillet 2025"
               location="Site de transformation de Kayar"
-              imageSrc="/images/img7.jpg"
+              imageSrc="/images/img3.jpg"
               category="Événement"
             />
           </div>
